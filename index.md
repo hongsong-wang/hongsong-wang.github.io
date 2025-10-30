@@ -6,3 +6,8 @@
 
 More information about my research and publications can be found on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=LzQnGacAAAAJ&view_op=list_works&sortby=pubdate), [SEU Personal Page](https://cs.seu.edu.cn/hongsongwang/main.htm) , and [Perception-Lab](https://hongsong-wang.github.io/Perception-Lab/).
 
+Selected representative works are:
+
+[LOTA: Bit-Planes Guided AI-Generated Image Detection](https://github.com/hongsong-wang/LOTA)
+
+[Foundation Model for Skeleton-Based Human Action Understanding](https://github.com/wengwanjiang/FoundSkelModel/)
