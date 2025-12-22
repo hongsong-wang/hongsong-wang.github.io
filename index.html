@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hongsong Wang</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.6;
+      color: #333;
+    }
+
+    h1 {
+      margin-bottom: 10px;
+    }
+
+    .tabs {
+      margin-top: 30px;
+      border-bottom: 2px solid #ddd;
+    }
+
+    .tab-button {
+      background: none;
+      border: none;
+      padding: 10px 18px;
+      cursor: pointer;
+      font-size: 16px;
+      border-bottom: 3px solid transparent;
+    }
+
+    .tab-button.active {
+      border-bottom: 3px solid #1a73e8;
+      font-weight: bold;
+      color: #1a73e8;
+    }
+
+    .tab-content {
+      display: none;
+      margin-top: 25px;
+    }
+
+    .tab-content.active {
+      display: block;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>👋 Hi, I'm Hongsong Wang</h1>
+  <div class="tabs">
+    <button class="tab-button active" onclick="openTab('personal')">Personal Page</button>
+    <button class="tab-button" onclick="openTab('group')">Research Group</button>
+    <button class="tab-button" onclick="openTab('misc')">Others</button>
+  </div>
+
+  <div id="personal" class="tab-content active">
+  <ul>
+    <li>🔭 I’m working on <strong>Human Motion Perception and Generation</strong>, <strong>AIGC</strong>, and <strong>Deep Fake</strong>.</li>
+    <li>🌱 Beyond research, I'm interested in many fascinating things in nature and society. Feel free to reach out to me!</li>
+    <li>📫 Contact: 
+      <a href="mailto:hongsongwang@seu.edu.cn">hongsongwang@seu.edu.cn</a>, 
+      <a href="mailto:hongsongsui@gmail.com">hongsongsui@gmail.com</a>
+    </li>
+  </ul>
+
+  <p>
+    More information about my research and publications can be found on my
+    <a href="https://scholar.google.com/citations?hl=en&user=LzQnGacAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>,
+    <a href="https://www.jianshu.com/p/5b9013a0cf2f" target="_blank">Personal Page</a>,
+    and
+    <a href="https://hongsong-wang.github.io/Perception-Lab/" target="_blank">Perception-Lab</a>.
+  </p>
+
+  <h3>Selected Representative Works</h3>
+  <ul>
+    <li>
+      <a href="https://github.com/hongsong-wang/LOTA" target="_blank">
+        LOTA: Bit-Planes Guided AI-Generated Image Detection
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wengwanjiang/FoundSkelModel/" target="_blank">
+        Foundation Model for Skeleton-Based Human Action Understanding
+      </a>
+    </li>
+  </ul>
+
+  <h3>Miscellaneous</h3>
+  <ul>
+    <li>
+      <a href="https://hongsong-wang.github.io/CV_Paper_Portal/" target="_blank">
+        Paper Portal of Top Conferences in Computer Vision and Machine Learning
+        （历年顶会论文门户网站）
+      </a>
+    </li>
+    <li>
+      <a href="https://hongsong-wang.github.io/AI_arXiv_Portal" target="_blank">
+        ArXiv AI Paper Portal by Topic（arXiv 论文主题门户网站）
+      </a>
+    </li>
+    <li>
+      <a href="https://hongsong-wang.github.io/CS_arXiv_Paper/" target="_blank">
+        arXiv Paper Portal in Computer Science of 2025
+      </a>
+    </li>
+  </ul>
+</div>
+
+  <div id="group" class="tab-content">
+    <p>
+      Information about the research group, members, and ongoing projects.
+    </p>
+    <ul>
+      <li>PhD Students</li>
+      <li>Master Students</li>
+      <li>Collaborators</li>
+    </ul>
+  </div>
+
+<div id="misc" class="tab-content">
+  <p>
+    Other Notes:
+    <a href="https://www.jianshu.com/u/e7ad4690b541" target="_blank">
+      https://www.jianshu.com/u/e7ad4690b541
+    </a>
+  </p>
+</div>
+
+  <script>
+    function openTab(tabId) {
+      const contents = document.getElementsByClassName("tab-content");
+      const buttons = document.getElementsByClassName("tab-button");
+
+      for (let i = 0; i < contents.length; i++) {
+        contents[i].classList.remove("active");
+        buttons[i].classList.remove("active");
+      }
+
+      document.getElementById(tabId).classList.add("active");
+      event.target.classList.add("active");
+    }
+  </script>
+
+</body>
+</html>
