@@ -18,4 +18,4 @@ Miscellaneous:
 
 [ArXiv AI Paper Portal by Topic, arXiv 论文主题门户网站](https://hongsong-wang.github.io/AI_arXiv_Portal)
 
-[arXiv Paper Portal in Computer Science of 2025](https://hongsong-wang.github.io/CS_arXiv_Paper/)
+[arXiv Paper Portal in Computer Science of 2025-2026](https://hongsong-wang.github.io/CS_arXiv_Paper/)
