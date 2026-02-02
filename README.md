@@ -12,6 +12,10 @@ Selected representative works are:
 
 [Foundation Model for Skeleton-Based Human Action Understanding](https://github.com/wengwanjiang/FoundSkelModel/)
 
+Courses:
+
+[OpenCV + Python：图像与视频处理基础（8讲）](https://github.com/hongsong-wang/OpenCV-Python-Image-Processing)
+
 Miscellaneous:
 
 [Paper Portal of Top Conferences in Computer Vision and Machine Learning, 历年顶会论文门户网站](https://hongsong-wang.github.io/CV_Paper_Portal/)
