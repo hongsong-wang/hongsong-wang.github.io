@@ -8,7 +8,9 @@ More information about my research and publications can be found on my [Google S
 
 Selected Representative Works:
 
-[LOTA: Bit-Planes Guided AI-Generated Image Detection](https://github.com/hongsong-wang/LOTA)
+[Attribution as Retrieval: Model-Agnostic AI-Generated Image Attribution](https://github.com/hongsong-wang/LIDA)
+
+[EasyTune: Efficient Step-Aware Fine-Tuning for Diffusion-Based Motion Generation](https://github.com/wengwanjiang/EasyTune)
 
 [Foundation Model for Skeleton-Based Human Action Understanding](https://github.com/wengwanjiang/FoundSkelModel/)
 
