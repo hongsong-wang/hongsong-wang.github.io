@@ -22,7 +22,7 @@ Miscellaneous:
 
 [Paper Portal of Top Conferences in Computer Vision and Machine Learning, 历年顶会论文门户网站](https://hongsong-wang.github.io/CV_Paper_Portal/)
 
-[ArXiv Paper Search Portal, arXiv 论文关键词检索网页](http://47.102.131.153/)
+[ArXiv Paper Search Portal, arXiv 论文关键词检索网站](http://47.102.131.153/)
 
 [ArXiv AI Paper Portal by Topic, arXiv 论文主题门户网站](https://hongsong-wang.github.io/AI_arXiv_Portal)
 
