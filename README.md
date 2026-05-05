@@ -22,6 +22,6 @@ Miscellaneous:
 
 [Paper Portal of Top Conferences in Computer Vision and Machine Learning, 历年顶会论文门户网站](https://hongsong-wang.github.io/CV_Paper_Portal/)
 
-[ArXiv Paper Portal](https://github.com/hongsong-wang/AI_arXiv_Portal)([arXiv 论文关键词检索网站](http://47.102.131.153/), [arXiv 论文主题门户网站](https://hongsong-wang.github.io/AI_arXiv_Portal))
+[ArXiv Paper Portal](https://github.com/hongsong-wang/AI_arXiv_Portal)([arXiv 论文关键词检索网站](http://47.102.131.153/), [arXiv 论文主题网站](https://hongsong-wang.github.io/AI_arXiv_Portal))
 
 [arXiv Paper Portal in Computer Science of 2025-2026](https://hongsong-wang.github.io/CS_arXiv_Paper/)
