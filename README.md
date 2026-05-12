@@ -19,6 +19,7 @@ Selected Courses:
 [OpenCV + Python：图像与视频处理基础（8讲）](https://github.com/hongsong-wang/OpenCV-Python-Image-Processing)
 
 Featured Academic Talks:
+
 [面向人与数字人的动作-语义建模: 动作理解与生成](https://github.com/hongsong-wang/HumanMotionModeling/)
 
 Miscellaneous:
