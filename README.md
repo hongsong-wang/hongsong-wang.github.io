@@ -22,6 +22,8 @@ Featured Academic Talks:
 
 [面向人与数字人的动作-语义建模: 动作理解与生成](https://github.com/hongsong-wang/HumanMotionModeling/)
 
+[高保真数字人生成与多模态动作驱动](https://github.com/hongsong-wang/DigitialHumanModeling/)
+
 Miscellaneous:
 
 [Paper Portal of Top Conferences in Computer Vision and Machine Learning, 历年顶会论文门户网站](https://hongsong-wang.github.io/CV_Paper_Portal/)
