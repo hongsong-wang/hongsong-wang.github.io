@@ -4,7 +4,7 @@
 - 🌱 Beyond research, I'm interested in many fascinating things in nature and society. Feel free to reach out to me! 
 - 📫 Contact: hongsongwang@seu.edu.cn, hongsongsui@gmail.com
 
-More information about my research and publications can be found on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=LzQnGacAAAAJ), [University Page](https://cs.seu.edu.cn/hongsongwang/main.htm), [DBLP](https://dblp.org/pid/181/4564-1.html), [OpenReview](https://openreview.net/profile?id=%7EHongsong_Wang2).
+More information about my research and publications can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=LzQnGacAAAAJ), [University Page](https://cs.seu.edu.cn/hongsongwang/main.htm), [DBLP](https://dblp.org/pid/181/4564-1.html), [OpenReview](https://openreview.net/profile?id=%7EHongsong_Wang2).
 
 Selected Representative Works:
 
