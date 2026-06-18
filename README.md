@@ -32,4 +32,4 @@ Miscellaneous:
 
 [ArXiv Paper Portal](https://github.com/hongsong-wang/AI_arXiv_Portal) ([arXiv/顶会/顶刊论文关键词检索网站](http://47.102.131.153/), [arXiv 论文主题网站](https://hongsong-wang.github.io/AI_arXiv_Portal))
 
-[arXiv Paper Portal in Computer Science of 2025-2026](https://hongsong-wang.github.io/CS_arXiv_Paper/)
+[arXiv Paper with Code Portal in Computer Science](https://hongsong-wang.github.io/CS_arXiv_Paper/)
