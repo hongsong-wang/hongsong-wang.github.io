@@ -26,8 +26,10 @@ Featured Academic Talks:
 
 Miscellaneous:
 
-[Paper Portal of Top Conferences in Computer Vision and Artificial intelligence, 历年顶会论文门户网站](https://hongsong-wang.github.io/CV_Paper_Portal/)
+[Paper Portal of Vision-Language-Learning-Robotics, 历年顶会论文门户网站](https://hongsong-wang.github.io/CV_Paper_Portal/)
 
-[ArXiv Paper Portal](https://github.com/hongsong-wang/AI_arXiv_Portal) ([arXiv/顶会论文关键词检索网站](http://47.102.131.153/), [arXiv 论文主题网站](https://hongsong-wang.github.io/AI_arXiv_Portal))
+[Paper Portal of Top Journals in Computer Vision and Artificial intelligence, 历年顶刊论文门户网站](https://hongsong-wang.github.io/AI_Journal_Portal/)
+
+[ArXiv Paper Portal](https://github.com/hongsong-wang/AI_arXiv_Portal) ([arXiv/顶会/顶刊论文关键词检索网站](http://47.102.131.153/), [arXiv 论文主题网站](https://hongsong-wang.github.io/AI_arXiv_Portal))
 
 [arXiv Paper Portal in Computer Science of 2025-2026](https://hongsong-wang.github.io/CS_arXiv_Paper/)
