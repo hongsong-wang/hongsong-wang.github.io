@@ -20,7 +20,7 @@ Selected Courses:
 
 Featured Academic Talks:
 
-[多模态人体动作对齐研究及其应用](https://github.com/hongsong-wang/HumanMotionAlignment) ([视频](https://www.bilibili.com/video/BV1a8uq6SEXr/))
+[多模态人体动作对齐研究及其应用](https://github.com/hongsong-wang/HumanMotionAlignment) ([视频](https://www.bilibili.com/video/BV1a8uq6SEXr/?vd_source=0602ff93eddb79ef5dfb8a840e5e78d4))
 
 [面向人与数字人的动作-语义建模: 动作理解与生成](https://github.com/hongsong-wang/HumanMotionModeling/)
 
