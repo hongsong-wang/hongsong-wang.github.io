@@ -8,8 +8,6 @@ More information about my research and publications can be found on [Google Scho
 
 Selected Representative Works:
 
-[Attribution as Retrieval: Model-Agnostic AI-Generated Image Attribution](https://github.com/hongsong-wang/LIDA)
-
 [EasyTune: Efficient Step-Aware Fine-Tuning for Diffusion-Based Motion Generation](https://github.com/wengwanjiang/EasyTune)
 
 [Foundation Model for Skeleton-Based Human Action Understanding](https://github.com/wengwanjiang/FoundSkelModel/)
