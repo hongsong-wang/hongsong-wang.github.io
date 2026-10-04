@@ -8,7 +8,7 @@ More information about my research and publications can be found on [Google Scho
 
 Selected Representative Works:
 
-[EasyTune: Efficient Step-Aware Fine-Tuning for Diffusion-Based Motion Generation](https://github.com/wengwanjiang/EasyTune)
+[MotionRFT: Unified Reinforcement Fine-Tuning for Text-to-Motion Generation](https://github.com/Xiaofeng-Tan/MotionRFT)
 
 [Foundation Model for Skeleton-Based Human Action Understanding](https://github.com/wengwanjiang/FoundSkelModel/)
 
